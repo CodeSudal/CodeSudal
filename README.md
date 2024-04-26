@@ -6,7 +6,15 @@ Reviews and communication are always welcome. 😄😄😄
 
   <br/><br/>
 
-## 📖 Tech Stack 📖 &nbsp;
+## ✨ Fun Fact ✨ 
+
+- 🔭 I’m currently working on ...
+- 💬 I stayed up all night again today ...
+<br/>
+🥕🥕🥕🥕🥕🥕🥕🥕🥕🥕🥕🥕🥕🥕🥕🥕🥕
+  <br/><br/>
+
+  ## 📖 Tech Stack 📖 &nbsp;
 <br/><br/>
 <img src="https://img.shields.io/badge/Java-f05743">
 <img src="https://img.shields.io/badge/JSP-f05743">
@@ -21,14 +29,5 @@ Reviews and communication are always welcome. 😄😄😄
 <img src="https://img.shields.io/badge/QGIS-%238eb826">
 <img src="https://img.shields.io/badge/Git-%23000000">
 <img src="https://img.shields.io/badge/SVN-%231a73e8">
+<img src="https://img.shields.io/badge/Docker-%231a73e8">
 
-  <br/><br/>
-
-## ✨ fun fact ✨ 
-
-- 🔭 I’m currently working on ...
-- 💬 I stayed up all night again today ...
-  
-  <br/>
-🥕🥕🥕🥕🥕🥕🥕🥕🥕🥕🥕🥕🥕🥕🥕🥕🥕
-  <br/><br/>
