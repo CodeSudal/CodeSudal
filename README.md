@@ -4,7 +4,7 @@ Usually, web applications based on Java are created. <br/>
 I'm studying various things and am very interested in new technologies. <br/>
 Reviews and communication are always welcome. 😄😄😄 
 
-  <br/><br/>
+  <br/><br/><br/>
 
 ## ✨ Fun Fact ✨ 
 
@@ -12,9 +12,10 @@ Reviews and communication are always welcome. 😄😄😄
 - 💬 I stayed up all night again today ...
 <br/>
 🥕🥕🥕🥕🥕🥕🥕🥕🥕🥕🥕🥕🥕🥕🥕🥕🥕
-  <br/><br/>
+  <br/><br/><br/><br/>
 
   ## 📖 Tech Stack 📖 &nbsp;
+
 <br/><br/>
 <img src="https://img.shields.io/badge/Java-f05743">
 <img src="https://img.shields.io/badge/JSP-f05743">
