@@ -1,6 +1,6 @@
 ## 🦦 I am 🦦
 I live in South Korea. <br/>
-Usually, web applications based on Java are created. <br/>
+I generally develop Java-based web applications. <br/>
 I'm studying various things and am very interested in new technologies. <br/>
 Reviews and communication are always welcome. 😄😄😄 
 
